@@ -1,3 +1,7 @@
 node_modules/
 .next/
 .env.local
+.recording.m4a
+.recording1.m4a
+.test.mp3
+
