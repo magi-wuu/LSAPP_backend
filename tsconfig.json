@@ -23,7 +23,7 @@
     "**/*.mts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "node_modules/combined-stream/lib/systemPrompt.ts"  ],
   "exclude": [
     "node_modules"
   ]
